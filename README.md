@@ -27,7 +27,7 @@ We test the ReBaNO on three test problems: 1D Poisson, 2D Darcy flow and 2D Navi
 *model benchmarks on three test problems*
 
 ![Image 2](figs/Darcy_box_plot_relative_error.png)
-*box plot of relative $L^2$ errors on Darcy flow problem*
+*box plot of relative $$L^2$$ errors on Darcy flow problem*
 
 
 
