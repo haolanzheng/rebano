@@ -31,7 +31,10 @@ ReBaNO is tested on three test problems: 1D Poisson, 2D Darcy flow and 2D Navier
 ![Image 2](figs/rebano_benchmarks.png)
 *model benchmarks on three test problems*
 
-<img src="figs/discretization_invar_test.png.png" alt="discretization invariance test on the Poisson problem" width="60%"/>
+<p align="center">
+<img src="figs/discretization_invar_test.png" alt="discretization invariance test on the Poisson problem" width="60%"/><br>
+*discretization invariance test on the Poisson problem*
+</p>
 
 ![Image 4](figs/Darcy_box_plot_relative_error.png)
 *the box plot of relative L<sup>2</sup> errors on Darcy flow problem*
