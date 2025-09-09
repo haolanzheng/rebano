@@ -53,7 +53,7 @@ To train ReBaNO, please run the script files
 ```
 */ReBaNO/*_main.py
 ```
-for example, run `Darcy/ReBaNO/D_main.py`.
+for example, run `Darcy/ReBaNO/D_main.py` to train the ReBaNO on Darcy flow problem.
 
 To test the model, please run
 ```
