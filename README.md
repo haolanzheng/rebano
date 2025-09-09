@@ -12,7 +12,7 @@
 
 </sub></sub><sub>1</sup> Department of Mathematics, University of Massachusetts Dartmouth, North Dartmouth, MA.
 </sub></sub><sub>2</sup> Flatiron Institute, New York, NY.
-</sub></sub><sub>3</sub> Department of Mathematics, Lehigh University, Bethlehem, PA.
+</sub></sub><sub>3</sup> Department of Mathematics, Lehigh University, Bethlehem, PA.
 
 ## Requirements:
 ```
