@@ -20,4 +20,14 @@ NumPy   = 1.26.4
 PyTorch = 2.4.0+cu124
 ```
 
+## Numerical Results:
+We test the ReBaNO on three test problems: 1D Poisson, 2D Darcy flow and 2D Navier-Stokes. We compare the performance of the ReBaNO with four neural operators: PCA-Net, DeepONet, Fourier Neural Operator (FNO) and Convolutional Neural Operator (CNO). See below for the benchmarks on test problems of all models. 
+
+![Image 2](figs/rebano_benchmarks.png)
+*model benchmarks on three test problems*
+
+![Image 2](figs/Darcy_box_plot_relative_error.png)
+*box plot of relative $L^2$ errors on Darcy flow problem*
+
+
 
