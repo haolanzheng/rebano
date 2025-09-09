@@ -17,9 +17,10 @@
 
 ## Requirements:
 ```
-Python  = 3.10.14
-NumPy   = 1.26.4
-PyTorch = 2.4.0+cu124
+Python     = 3.10.14
+NumPy      = 1.26.4
+PyTorch    = 2.4.0+cu124
+Matplotlib = 3.8.4
 ```
 
 ## Advantages of ReBaNO:
