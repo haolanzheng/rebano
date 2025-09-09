@@ -27,7 +27,10 @@ We test the ReBaNO on three test problems: 1D Poisson, 2D Darcy flow and 2D Navi
 *model benchmarks on three test problems*
 
 ![Image 2](figs/Darcy_box_plot_relative_error.png)
-*box plot of relative L<sup>2</sup> errors on Darcy flow problem*
+*the box plot of relative L<sup>2</sup> errors on Darcy flow problem*
+
+## Repo Structure
+All script files for the implementation of the ReBaNO are located in the folder `ReBaNO/` under the directory of each example folder (e.g., `Darcy/ReBaNO/`). Scripts for running neural operators PCA-Net, DeepONet and FNO reside in the folder `NO/` under each example folder. Codes for CNO are in the folder `CNO/`.  
 
 
 
