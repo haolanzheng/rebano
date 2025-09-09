@@ -20,7 +20,7 @@ NumPy   = 1.26.4
 PyTorch = 2.4.0+cu124
 ```
 
-## Advantages:
+## Advantages of ReBaNO:
 1. No requirement for high-fidelity solutions;
 2. Better generalizability;
 3. Discretization invariance;
