@@ -63,14 +63,14 @@ To test the model, please run
 
 ## Citation:
 Cite this work as 
-"""
+```
 @inproceedings{Zheng2025ReBaNORB,
   title={ReBaNO: Reduced Basis Neural Operator Mitigating Generalization Gaps and Achieving Discretization Invariance},
   author={Haolan Zheng and Yanlai Chen and Jiequn Han and Yue Yu},
   year={2025},
   url={https://api.semanticscholar.org/CorpusID:281252233}
 }
-"""
+```
 
 
 
