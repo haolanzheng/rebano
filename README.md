@@ -2,7 +2,7 @@
 
 ### Haolan Zheng<sup>1</sup>, Yanlai Chen<sup>1</sup>, Jiequn Han<sup>2</sup>, Yue Yu<sup>3</sup>
 
-## Paper Link: [arXiv]()
+## Paper Link: [arXiv](https://arxiv.org/abs/2509.09611)
 
 <p align="center">
 <img src="figs/rebano_schematics.png" alt="rebano schematics" width="90%"/><br>
@@ -62,7 +62,15 @@ To test the model, please run
 ```
 
 ## Citation:
-
+Cite this work as 
+"""
+@inproceedings{Zheng2025ReBaNORB,
+  title={ReBaNO: Reduced Basis Neural Operator Mitigating Generalization Gaps and Achieving Discretization Invariance},
+  author={Haolan Zheng and Yanlai Chen and Jiequn Han and Yue Yu},
+  year={2025},
+  url={https://api.semanticscholar.org/CorpusID:281252233}
+}
+"""
 
 
 
